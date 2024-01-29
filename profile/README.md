@@ -1,7 +1,5 @@
 # ListByList - Endless Knowledge Space
 
-> Remember Everything and Discover anything
-
 ListByList is an Endless Knowledge Space to Remember Everything and Discover Anything.
 
 ## Overview
