@@ -1,6 +1,6 @@
-# listbylist
+# Listbylist
 
-listbylist is a list-making application designed to help you remember everything and discover anything.
+Listbylist is a list-making application designed to help you remember everything and discover anything.
 
 https://listbylist.com
 
