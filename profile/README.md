@@ -1,9 +1,9 @@
-# ListByList - Endless Knowledge Space
+# listbylist
 
-ListByList is an Endless Knowledge Space to Remember Everything and Discover Anything.
+listbylist is a list-making application designed to help you remember everything and discover anything.
 
 https://listbylist.com
 
 ## Overview
 
-A smart note-sharing application for collaborative knowledge exchange in an endless space environment.
+A smart list-making application for collaborative knowledge exchange in an endless space environment.
