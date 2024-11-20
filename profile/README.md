@@ -1,10 +1,10 @@
-# Listbylist
+# Listinlist
 
 > Remember Everything, Discover Anything.
 
-Listbylist is a list-making app that allows users to create lists and share them with others.
+Listinlist is a list-making app that allows users to create lists and share them with others.
 
-https://listbylist.com
+https://listinlist.com
 
 ## Overview
 
